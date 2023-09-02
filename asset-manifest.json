@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hillow/static/css/main.80161fca.css",
+    "main.js": "/Hillow/static/js/main.43633038.js",
+    "static/js/787.2f9e6e1c.chunk.js": "/Hillow/static/js/787.2f9e6e1c.chunk.js",
+    "index.html": "/Hillow/index.html",
+    "main.80161fca.css.map": "/Hillow/static/css/main.80161fca.css.map",
+    "main.43633038.js.map": "/Hillow/static/js/main.43633038.js.map",
+    "787.2f9e6e1c.chunk.js.map": "/Hillow/static/js/787.2f9e6e1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80161fca.css",
+    "static/js/main.43633038.js"
+  ]
+}
